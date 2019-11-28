@@ -1,0 +1,10 @@
+C:\Users\Majid.Alikhani\source\repos\Library\LibraryData\bin\Debug\netcoreapp3.0\LibraryData.deps.json
+C:\Users\Majid.Alikhani\source\repos\Library\LibraryData\bin\Debug\netcoreapp3.0\LibraryData.dll
+C:\Users\Majid.Alikhani\source\repos\Library\LibraryData\obj\Debug\netcoreapp3.0\LibraryData.csprojAssemblyReference.cache
+C:\Users\Majid.Alikhani\source\repos\Library\LibraryData\obj\Debug\netcoreapp3.0\LibraryData.AssemblyInfoInputs.cache
+C:\Users\Majid.Alikhani\source\repos\Library\LibraryData\obj\Debug\netcoreapp3.0\LibraryData.AssemblyInfo.cs
+C:\Users\Majid.Alikhani\source\repos\Library\LibraryData\bin\Debug\netcoreapp3.0\LibraryData.runtimeconfig.json
+C:\Users\Majid.Alikhani\source\repos\Library\LibraryData\bin\Debug\netcoreapp3.0\LibraryData.runtimeconfig.dev.json
+C:\Users\Majid.Alikhani\source\repos\Library\LibraryData\bin\Debug\netcoreapp3.0\LibraryData.pdb
+C:\Users\Majid.Alikhani\source\repos\Library\LibraryData\obj\Debug\netcoreapp3.0\LibraryData.dll
+C:\Users\Majid.Alikhani\source\repos\Library\LibraryData\obj\Debug\netcoreapp3.0\LibraryData.pdb
